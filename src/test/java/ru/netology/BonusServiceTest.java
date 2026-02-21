@@ -1,6 +1,5 @@
 package ru.netology;
 
-package ru.netology;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
@@ -56,4 +55,4 @@ public class BonusServiceTest {
 
         Assertions.assertEquals(expected, actual);
     }
-…}
+}
